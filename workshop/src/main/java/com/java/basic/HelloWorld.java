@@ -5,8 +5,8 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// The program begins with a call to main() method. 
-		// Prints Output  "Hello, World" 
-		System.out.println("Hello, World"); 
+		// Prints Output  "Hello, World!" 
+		System.out.println("Hello, World!"); 
 	}
 
 }
